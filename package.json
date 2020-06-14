@@ -4,9 +4,8 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/ramanjaneya-karnati/marley-spoon-assignment.git"
   },
-  "author": "Ramanjaneya Reddy ",
+  "author": "Sruthi Korada",
   "homepage": "",
   "dependencies": {
     "@material-ui/core": "^4.2.0",

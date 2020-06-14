@@ -13,6 +13,7 @@ const isLoading = (state = false, action) => {
   }
 };
 
+
 const recipes = (state = [], action) => {
   switch (action.type) {
     case Actions.COMPONENT_INIT:

@@ -37,12 +37,8 @@
  - Redux
  - Axios
  - Material UI
- - Jest
- - Enzyme
- 
  
  ## Installation
- - Clone the https://github.com/ramanjaneya-karnati/marley-spoon-assignment.git
  - Change to the project directory and make a "**npm install**"
  
   ## Run test cases
@@ -56,4 +52,4 @@
   
  ## License
  
- MIT © [Ramanjaneya Reddy ]()
+ MIT © [Sruthi-Korada ]()
